@@ -15,7 +15,7 @@ Laws of the FarmGoat Workplace
 
 6. [Effectiveness > Efficiency.](#effectiveness--efficiency)
 
-7. [Respect each other's time.](#respect-each-others-time)
+7. [Respect everyone, including each other's time.](#respect-everyone-inluding-each-others-time)
 
 8. [Don't try to please everyone.](#dont-try-to-please-everyone)
 
