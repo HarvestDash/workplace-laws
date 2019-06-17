@@ -3,25 +3,25 @@ Laws of the FarmGoat Workplace
 
 ## Table of Contents
 
-1. If you have more than three priorities, you have no priority.
+1. [If you have more than three priorities, you have no priority.](#if-you-have-more-than-three-priorities-you-have-no-priority)
 
-2. Urgent doesn't necessarily mean important.
+2. [Urgent doesn't necessarily mean important.](#urgent-doesnt-necessarily-mean-important)
 
-3. We don't know everything.
+3. [We don't know everything.](#we-dont-know-everything)
 
-4. Make mistakes.
+4. [Make mistakes.](#make-mistakes)
 
-5. Progress > Perfect.
+5. [Progress > Perfect.](#progress--perfect)
 
-6. Effectiveness > Efficiency.
+6. [Effectiveness > Efficiency.](#effectiveness--effiency)
 
-7. Respect each other's time.
+7. [Respect each other's time.](#respect-each-others-time)
 
-8. Don't try to please everyone.
+8. [Don't try to please everyone.](#dont-try-to-please-everyone)
 
-9. Family & Health > Work.
+9. [Family & Health > Work.](#family--health--work)
 
-10. Never ever deploy on a Friday!
+10. [Never ever deploy on a Friday!](#never-ever-deploy-on-a-friday)
 
 ## Discussion
 
