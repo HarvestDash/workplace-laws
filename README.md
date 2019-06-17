@@ -13,7 +13,7 @@ Laws of the FarmGoat Workplace
 
 5. [Progress > Perfect.](#progress--perfect)
 
-6. [Effectiveness > Efficiency.](#effectiveness--effiency)
+6. [Effectiveness > Efficiency.](#effectiveness--efficiency)
 
 7. [Respect each other's time.](#respect-each-others-time)
 
