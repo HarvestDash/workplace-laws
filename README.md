@@ -1,5 +1,5 @@
 # workplace-laws
-Laws of the FarmGoat Workplace
+Laws of the HarvestDash Workplace
 
 ## Table of Contents
 
